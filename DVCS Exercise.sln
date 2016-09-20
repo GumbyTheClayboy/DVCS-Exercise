@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DVCS_Website", "DVCS_Website\", "{D68D6A6E-213C-4CB7-8103-5612490F140A}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DVCS_Website(3)", "DVCS_Website\", "{D68D6A6E-213C-4CB7-8103-5612490F140A}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_5840"
 		Debug.AspNetCompiler.PhysicalPath = "DVCS_Website\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_5840\"
@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DVCS_Website", "DVCS_Websit
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "5840"
+		SlnRelativePath = "DVCS_Website\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
