@@ -9,4 +9,8 @@ The publisher’s steadily-growing portfolio includes firmly established PC fran
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
+    <h2>Let's Play Crusader Kings!</h2>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/MAvJJuv1hvM?list=PLH-huzMEgGWBBUYoAjpLxFkbgFw19CeA_" frameborder="0" allowfullscreen></iframe>
+
 </asp:Content>
