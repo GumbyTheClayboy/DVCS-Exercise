@@ -315,7 +315,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
-  background-color: #ffffff;
+  background-color: #43FF00;
 }
 
 input,
@@ -4384,31 +4384,31 @@ textarea.input-group-sm > .input-group-btn > .btn {
 }
 
 .navbar-default {
-  background-color: #f8f8f8;
+  background-color: #27FFFB;
   border-color: #e7e7e7;
 }
 
 .navbar-default .navbar-brand {
-  color: #777777;
+  color: #27FFFB;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #5e5e5e;
+  color: #27FFFB;
   background-color: transparent;
 }
 
 .navbar-default .navbar-text {
-  color: #777777;
+  color: #27FFFB;
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #777777;
+  color: #27FFFB;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #333333;
+  color: #27FFFB;
   background-color: transparent;
 }
 
@@ -4416,7 +4416,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #555555;
-  background-color: #e7e7e7;
+  background-color: #27FFFB;
 }
 
 .navbar-default .navbar-nav > .disabled > a,
@@ -4432,11 +4432,11 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #dddddd;
+  background-color: #27FFFB;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #cccccc;
+  background-color: #27FFFB;
 }
 
 .navbar-default .navbar-collapse,
@@ -4454,7 +4454,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
   color: #555555;
-  background-color: #e7e7e7;
+  background-color: #27FFFB;
 }
 
 .navbar-default .navbar-nav > .open > a .caret,
@@ -4934,7 +4934,7 @@ a.list-group-item.active > .badge,
   font-weight: 200;
   line-height: 2.1428571435;
   color: inherit;
-  background-color: #eeeeee;
+  background-color: #FFE64E;
 }
 
 .jumbotron h1 {
